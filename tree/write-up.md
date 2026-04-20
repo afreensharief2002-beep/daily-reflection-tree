@@ -1,6 +1,6 @@
 # Write-Up: Daily Reflection Tree — Design Rationale
 
-**DT Fellowship Assignment · Afreen B. Sharief**
+**DT Fellowship Assignment · Afreen B**
 
 ---
 
